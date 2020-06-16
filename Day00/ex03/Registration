@@ -1,0 +1,5 @@
+Credentials cache: API:3001
+        Principal:event@WETHINKCODE.CO.ZA
+ Issued                Expires             principal
+Jun 16 07:52:07 2020  Jun 16 17:52:07 2020 krbtgt/wethinkcode.co.za@wethinkcode.co.za
+
