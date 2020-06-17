@@ -1,2 +1,2 @@
-#!/bin/bash
-ldapsearch -LLL "(uid=event)" dn
+#!/bin/sh
+ldapsearch -LLL "(uid=enoko)" dn
